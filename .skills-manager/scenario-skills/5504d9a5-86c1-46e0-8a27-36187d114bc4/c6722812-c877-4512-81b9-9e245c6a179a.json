@@ -6,7 +6,7 @@
   "tools": {
     "claude_code": true,
     "codex": true,
-    "hermes": true,
-    "orca": true
+    "hermes": false,
+    "orca": false
   }
 }
