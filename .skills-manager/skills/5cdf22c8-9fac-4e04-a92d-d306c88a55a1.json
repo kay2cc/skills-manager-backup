@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "5cdf22c8-9fac-4e04-a92d-d306c88a55a1",
+  "path": "computer-use",
+  "path_key": "computer-use",
+  "enabled": true,
+  "tags": [
+    "Orca"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "stablyai/orca/computer-use",
+    "subpath": "skills/computer-use",
+    "branch": null
+  }
+}

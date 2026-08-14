@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b7c174e-81e1-453e-ad34-33cb8bdbcaa8",
+  "path": "orca-cli",
+  "path_key": "orca-cli",
+  "enabled": true,
+  "tags": [
+    "Orca"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "stablyai/orca/orca-cli",
+    "subpath": "skills/orca-cli",
+    "branch": null
+  }
+}
